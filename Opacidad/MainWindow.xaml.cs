@@ -26,9 +26,10 @@ namespace Opacidad
         {
             Image imagen = (Image)sender;
             imagen.Opacity = 1;
+            
         }
 
-        private void CambiarOpacity_mouseDown(object sender, RoutedEventArgs e)
+        private void CambiarOpacity_mouseLeave(object sender, RoutedEventArgs e)
         {
             Image imagen = (Image)sender;
             imagen.Opacity = 0.5;
