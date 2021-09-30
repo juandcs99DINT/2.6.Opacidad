@@ -8,7 +8,7 @@
         Title="Opacidad" Height="450" Width="800" Icon="assets/128.ico">
     <Grid>
         <Image HorizontalAlignment="Left" Height="365" Margin="10,29,0,0" VerticalAlignment="Top" Width="228" Source="assets/episodioIV.jpg" Opacity="0.5" Stretch="Fill" MouseLeave="CambiarOpacity_mouseLeave" MouseEnter="CambiarOpacity_mouseEnter"/>
-        <Image HorizontalAlignment="Left" Height="365" Margin="279,29,0,0" VerticalAlignment="Top" Width="228" Source="assets/episodioVI.jpg" Opacity="0.5" Stretch="Fill" MouseLeave="CambiarOpacity_mouseLeave" MouseDown="CambiarOpacity_mouseLeave" MouseEnter="CambiarOpacity_mouseEnter"/>
+        <Image HorizontalAlignment="Left" Height="365" Margin="279,29,0,0" VerticalAlignment="Top" Width="228" Source="assets/episodioVI.jpg" Opacity="0.5" Stretch="Fill" MouseLeave="CambiarOpacity_mouseLeave" MouseEnter="CambiarOpacity_mouseEnter"/>
         <Image HorizontalAlignment="Left" Height="365" Margin="542,29,0,0" VerticalAlignment="Top" Width="228" Source="assets/episodioV.jpg" Opacity="0.5" Stretch="Fill" MouseEnter="CambiarOpacity_mouseEnter" MouseLeave="CambiarOpacity_mouseLeave"/>
 
     </Grid>
